@@ -1,2 +1,5 @@
 .vscode/
 config/__pycache__/
+core/migrations/
+core/helpers/__pycache__/
+core/__pycache__/
